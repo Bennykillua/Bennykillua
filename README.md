@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Bennykillua/Bennykillua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Ifeanyi Iheagwara
+I'm a self-taught machine learning engineer working as a freelancer. I have a keen interest in designing, building, and deploying machine learning applications, as well as writing. Outside of work, I enjoy...
 
-- 🔭 I’m currently working on UrBizEdge
+⚽ Playing football and watching Chelsea FC (The best club in the world.)
+🤸 Calisthenics - my preferred style of exercise
+📚 Reading.
+
+
+- 🔭 I’m currently working on [UrBizEdge](https://www.urbizedge.com/blog/)
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
