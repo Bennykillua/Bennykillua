@@ -1,95 +1,63 @@
-# Hi 👋 !
+### Hi there 👋
 
-## I'm Benny Ifeanyi Iheagwara
-<small style='font-size:12px;'>A place to mine Gold and Diamond! </small>
+I'm Benedict Ifeanyi Iheagwara... but you can call me Benny.  I am a *educator, data analyst, technical writer and content creator 🚀*
 
-I am an _educator_, _programmer_, _full-stack developer_, _motivator_, _content creator_ and _data analyst_. This GitHub page has many educational materials about HTML, CSS, JS, React, Python, Python Libraries, Web Development, Data Analysis, and many other topics. The contents are known for their clarity and simplicity. 30DaysOfJavaScript, 30DaysOfReact, 30DaysOfPyhton, 10DaysOfGitandGith are the most well known contents on this page. I am very much pleased to have you here on my GitHub page and using this contents you can harness your unlimited potential to become a programmer, developer or data analyst. To get uptodate about the contents I create you may follow me on GitHub, LinkedIn and Twitter.  
+Passionate about anything data, ML, and DevOps best practices. 
 
-![](https://komarev.com/ghpvc/?username=asabeneh&color=green)
+💬 Ask me about **OSS, machine learning, and data analysis**
 
-<div>
-<a href="https://www.linkedin.com/in/ifeanyi-iheagwara/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
-<a href="https://twitter.com/Asabeneh" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
-<a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
-<a href="https://testimonify.herokuapp.com" target="_blank">website</a>
-</div>
+👐 Contributor on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/iheifeanyi/articles), [BastilleBSD](https://github.com/BastilleBSD/bastille), and [
+docToolchain](https://github.com/docToolchain/docToolchain)
 
-## Testimonials
-Read or write a testiomonal [here](https://testimonify.herokuapp.com/)
+Languages: Python and DAX.
 
-## Technologies which I teach and use:
+- 👯 I’m looking to collaborate on **documentations, open source projects, and data science and machine learning related projects.**
 
-### Frontend Technologies
 
-<div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="4%" title='Sass'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
-  <img src ="./images/d3.svg" alt="D3 logo" width="4%" title='D3.js'/>
-  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
-  <img src ="./images/redux.svg" alt="redux logo" width="4%" title='Redux'/>
-  <img src ="./images/gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
-<div> 
+## [Hashnode Blog Posts](https://benny.hashnode.dev/)
+<!-- HASHNODE:START -->
+- [Arctype SQL: Write Faster and More Efficient SQL Queries](https://benny.hashnode.dev/arctype-sql-write-faster-and-more-efficient-sql-queries)
+- [Building Excel Spreadsheets Using Python](https://benny.hashnode.dev/building-excel-spreadsheets-using-python)
+- [How to Contribute to Open Source Projects as a Non-Coder?](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
+- [Object-oriented Programming in Python 🐍🐍](https://benny.hashnode.dev/object-oriented-programming-in-python)
+<!-- HASHNODE:END -->
 
-### Backend Technologies
-
-<div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="5%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
-  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/flask.svg" alt="Flask logo" width="5%" title='Flask'/>
-  <img src ="./images/django.svg" alt="Django logo" width="5%" title='Django'/>
-</div>
-
-### Tools
-
-<div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
-  <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
-  <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
-</div>
+<details>
+<summary>📝 Latest Writing</summary>
+<br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asabeneh&layout)](https://github.com/asabeneh/github-readme-stats)
-  
- ### Support the Author
-  
- By Subscribing to the YouTube Channel <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
- 
- <div>
-There are more than 100 videos about <br />
-✅ HTML <br />
-✅ CSS <br />
-✅ Git and GitHub <br />
-✅ JavaScript <br />
-✅ React <br />
-✅ Python <br />
-✅ Data Analysis <br />
- on <a href="https://www.youtube.com/channel/UCM4xOopkYiPwJqyKsSqL9mw" target="_blank">CodingForAll</a> YouTube channel. You may subscribe the channel for more contents
- </div>
-  
- ---
-  
-<div>
-  <small>Support the <strong><em style ="color:red;">author</em></strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
+- [Data Visualization with Chartify](https://www.section.io/engineering-education/data-viz-chartify/)
+- [How to Contribute to Open Source Projects as a Non-Coder?](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
+- [Feedbakly: How to give and receiving feedback](https://blog.feedbakly.com/21/how-to-give-and-receive-feedback)
+- [HDSC Stage F OSP- Weather Forecasting: A time series analysis.](https://medium.com/hamoye-blogs/weather-forecasting-a-time-series-analysis-1767a240c350)
+- [Covid-19 Project: Case study Nigeria 😷](https://deepnote.com/project/Covid-19-Project-Case-study-Nigeria-SGPzeYbcT6OqGO7pREKaiw/%2Fnotebook.ipynb/#00001-2aa0f837-fc7d-4248-a531-5cc0fe894072)
+
+</details>
+
+✍️ I Write For
+- [UrBizEdge](https://www.urbizedge.com/blog/)
+- [Arctype](https://arctype.com/)
+- [Hit Subscribe](https://www.hitsubscribe.com/)
+- [Engineering Education (EngEd) Program - Section.io](https://www.section.io/engineering-education/)
+
+🔬 Research paper:
+- Toxicity, mutagenicity, and trace metal constituent of Termitomyces schimperi (Pat.) R. Heim (Lyophyllaceae) and kaolin, a recipe used traditionally in cancer management in Côte d'Ivoire. You can read all about  it by visiting [Science direct](https://www.sciencedirect.com/science/article/pii/S0378874121003743) or [Research gate](https://www.researchgate.net/publication/351170815_Toxicity_mutagenicity_and_trace_metal_constituent_of_Termitomyces_schimperi_Pat_R_Heim_Lyophyllaceae_and_kaolin_a_recipe_used_traditionally_in_cancer_management_in_Cote_d'Ivoire).
+
+<!--
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=bennykillua&show_icons=true&theme=tokyonight" 
+/>
+-->
 
 
-<!-- ## Tech Stacks
-- MEEN Stack
-- MERN Stack
-- JAM Stack
-- MRF Stack
- -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bennykillua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bennykillua" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ifeanyi-iheagwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifeanyi-iheagwara" height="30" width="40" /></a>
+<a href="https://benny.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="ifeanyi-iheagwara" height="30" width="40" /></a>
+<a href="https://medium.com/@iheifeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iheifeanyi" height="30" width="40" /></a>
+</p>
 
----
-<small> _I am a lifelong learner and I love teaching and inspiring people_. </small>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://paypal.me/bennykillua?country.x=LS&locale.x=en_US"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxU2Vb5NeqMhG0i_D_FC9hodJ48qVKmBG3tQ&usqp=CAU" height="50" width="40" alt="Bennykillua" /></a></p><br><br>
