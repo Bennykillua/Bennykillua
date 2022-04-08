@@ -16,6 +16,7 @@ Languages: Python and DAX.
 
 ## Hashnode Blog Posts. 
 <!-- HASHNODE:START -->
+- [Data visualization with Astrato Analytics](https://benny.hashnode.dev/data-visualization-with-astrato-analytics)
 - [Arctype SQL: Write Faster and More Efficient SQL Queries](https://benny.hashnode.dev/arctype-sql-write-faster-and-more-efficient-sql-queries)
 - [Building Excel Spreadsheets Using Python](https://benny.hashnode.dev/building-excel-spreadsheets-using-python)
 - [How to Contribute to Open Source Projects as a Non-Coder?](https://benny.hashnode.dev/how-to-contribute-to-open-source-projects-as-a-non-coder)
