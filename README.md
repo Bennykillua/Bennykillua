@@ -14,7 +14,8 @@ Languages: Python and DAX.
 - 👯 I’m looking to collaborate on **documentations, open source projects, and data science and machine learning related projects.**
 
 
-## [Hashnode Blog Posts](https://benny.hashnode.dev/)
+## Hashnode Blog Posts. 
+ Visit the blog via this [link](https://benny.hashnode.dev/)
 
 <!-- HASHNODE:START -->
 - [Arctype SQL: Write Faster and More Efficient SQL Queries](https://benny.hashnode.dev/arctype-sql-write-faster-and-more-efficient-sql-queries)
