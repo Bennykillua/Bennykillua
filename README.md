@@ -14,7 +14,7 @@ Languages: Python and DAX.
 - 👯 I’m looking to collaborate on **documentations, open source projects, and data science and machine learning related projects.**
 
 
-## Hashnode Blog Posts](https://benny.hashnode.dev/)
+## [Hashnode Blog Posts](https://benny.hashnode.dev/)
 
 <!-- HASHNODE:START -->
 - [Arctype SQL: Write Faster and More Efficient SQL Queries](https://benny.hashnode.dev/arctype-sql-write-faster-and-more-efficient-sql-queries)
@@ -57,6 +57,7 @@ Languages: Python and DAX.
 <a href="https://linkedin.com/in/ifeanyi-iheagwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ifeanyi-iheagwara" height="30" width="40" /></a>
 <a href="https://benny.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="ifeanyi-iheagwara" height="30" width="40" /></a>
 <a href="https://medium.com/@iheifeanyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iheifeanyi" height="30" width="40" /></a>
+<a href="https://www.section.io/engineering-education/authors/benedict-ifeanyi-iheagwara/" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/203874269/18da7800-c57f-11e9-815f-9a1857f2c92e" alt="@iheifeanyi" height="30" width="40" /></a>
 </p>
 
 
