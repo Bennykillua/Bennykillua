@@ -15,8 +15,6 @@ Languages: Python and DAX.
 
 
 ## Hashnode Blog Posts. 
- Visit the blog via this [link](https://benny.hashnode.dev/)
-
 <!-- HASHNODE:START -->
 - [Arctype SQL: Write Faster and More Efficient SQL Queries](https://benny.hashnode.dev/arctype-sql-write-faster-and-more-efficient-sql-queries)
 - [Building Excel Spreadsheets Using Python](https://benny.hashnode.dev/building-excel-spreadsheets-using-python)
