@@ -24,7 +24,7 @@ Languages: Python and DAX.
 <!-- HASHNODE:END -->
 
 <details>
-<summary>📝 Latest Writing</summary>
+<summary>📝 Writing ✍️ </summary>
 <br>
   
 - [Data Visualization with Chartify](https://www.section.io/engineering-education/data-viz-chartify/)
@@ -35,11 +35,6 @@ Languages: Python and DAX.
 
 </details>
 
-✍️ I Write For
-- [UrBizEdge](https://www.urbizedge.com/blog/)
-- [Arctype](https://arctype.com/)
-- [Hit Subscribe](https://www.hitsubscribe.com/)
-- [Engineering Education (EngEd) Program - Section.io](https://www.section.io/engineering-education/)
 
 🔬 Research paper:
 - Toxicity, mutagenicity, and trace metal constituent of Termitomyces schimperi (Pat.) R. Heim (Lyophyllaceae) and kaolin, a recipe used traditionally in cancer management in Côte d'Ivoire. You can read all about  it by visiting [Science direct](https://www.sciencedirect.com/science/article/pii/S0378874121003743) or [Research gate](https://www.researchgate.net/publication/351170815_Toxicity_mutagenicity_and_trace_metal_constituent_of_Termitomyces_schimperi_Pat_R_Heim_Lyophyllaceae_and_kaolin_a_recipe_used_traditionally_in_cancer_management_in_Cote_d'Ivoire).
