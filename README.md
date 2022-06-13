@@ -6,8 +6,9 @@ Passionate about anything data, ML, and DevOps best practices.
 
 💬 Ask me about **OSS, machine learning, and data analysis**
 
-👐 Contributor on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/iheifeanyi/articles), [BastilleBSD](https://github.com/BastilleBSD/bastille), and [
-docToolchain](https://github.com/docToolchain/docToolchain)
+👐 Contributed on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/iheifeanyi/articles), [BastilleBSD](https://github.com/BastilleBSD/bastille).
+
+📙 Currently contributing on [Ansible](https://www.ansible.com/) and [docToolchain](https://github.com/docToolchain/docToolchain)
 
 Languages: Python and DAX.
 
