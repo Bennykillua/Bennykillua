@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Benedict Ifeanyi Iheagwara... but you can call me Benny.  I am a *educator, data analyst, technical writer and content creator 🚀*
+I'm Benny Ifeanyi Iheagwara... I am a *educator, data analyst, technical writer and content creator 🚀*
 
 Passionate about anything data, ML, and DevOps best practices. 
 
