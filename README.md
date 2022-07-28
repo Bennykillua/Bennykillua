@@ -17,11 +17,11 @@ Languages: Python and DAX.
 
 ## Hashnode Blog Posts. 
 <!-- HASHNODE:START -->
+- [Sharing Accounts Through Cookies](https://benny.hashnode.dev/share-your-cookies)
 - [Analyze Blockchain and DeFi data in minutes with SQL and Dune Analytics: A Quickstart Guide](https://benny.hashnode.dev/analyze-blockchain-and-defi-data-in-minutes-with-sql-and-dune-analytics-a-quickstart-guide)
 - [On-premise vs. Cloud: Should you make the shift?](https://benny.hashnode.dev/on-premise-vs-cloud-should-you-make-the-shift)
 - [Data visualization with Astrato Analytics](https://benny.hashnode.dev/data-visualization-with-astrato-analytics)
 - [Arctype SQL: Write Faster and More Efficient SQL Queries](https://benny.hashnode.dev/arctype-sql-write-faster-and-more-efficient-sql-queries)
-- [Building Excel Spreadsheets Using Python](https://benny.hashnode.dev/building-excel-spreadsheets-using-python)
 <!-- HASHNODE:END -->
 
 <details>
