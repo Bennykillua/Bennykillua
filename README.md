@@ -10,6 +10,8 @@ Passionate about anything data, ML, and DevOps best practices.
 
 📙 Currently contributing to [Ansible](https://www.ansible.com/), [NumPy](https://numpy.org/), and [docToolchain](https://github.com/docToolchain/docToolchain)
 
+Also check out the [technical writing resource](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/README.md) that I occasionally contribute to.
+
 Languages: Python and DAX.
 
 - 👯 I’m looking to collaborate on **documentations, open source projects, and data science and machine learning related projects.**
