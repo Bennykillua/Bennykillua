@@ -39,9 +39,6 @@ Languages: Python and DAX.
 </details>
 
 
-🔬 Research paper:
-- Toxicity, mutagenicity, and trace metal constituent of Termitomyces schimperi (Pat.) R. Heim (Lyophyllaceae) and kaolin, a recipe used traditionally in cancer management in Côte d'Ivoire. You can read all about  it by visiting [Science direct](https://www.sciencedirect.com/science/article/pii/S0378874121003743) or [Research gate](https://www.researchgate.net/publication/351170815_Toxicity_mutagenicity_and_trace_metal_constituent_of_Termitomyces_schimperi_Pat_R_Heim_Lyophyllaceae_and_kaolin_a_recipe_used_traditionally_in_cancer_management_in_Cote_d'Ivoire).
-
 <!--
 <img 
    src="https://github-readme-stats.vercel.app/api?username=bennykillua&show_icons=true&theme=tokyonight" 
