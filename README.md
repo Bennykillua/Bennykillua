@@ -19,11 +19,11 @@ Languages: Python and DAX.
 
 ## Hashnode Blog Posts. 
 <!-- HASHNODE:START -->
-- [All The Damn Things - The Complete Non Code Contributor List](https://benny.hashnode.dev/all-the-damn-things-the-complete-non-code-contributor-list)
 - [Sharing Accounts Through Cookies](https://benny.hashnode.dev/share-your-cookies)
 - [Analyze Blockchain and DeFi data in minutes with SQL and Dune Analytics: A Quickstart Guide](https://benny.hashnode.dev/analyze-blockchain-and-defi-data-in-minutes-with-sql-and-dune-analytics-a-quickstart-guide)
 - [On-premise vs. Cloud: Should you make the shift?](https://benny.hashnode.dev/on-premise-vs-cloud-should-you-make-the-shift)
 - [Data visualization with Astrato Analytics](https://benny.hashnode.dev/data-visualization-with-astrato-analytics)
+- [Arctype SQL: Write Faster and More Efficient SQL Queries](https://benny.hashnode.dev/arctype-sql-write-faster-and-more-efficient-sql-queries)
 <!-- HASHNODE:END -->
 
 <details>
