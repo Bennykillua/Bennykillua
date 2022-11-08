@@ -12,6 +12,8 @@ Passionate about anything data, ML, and DevOps best practices.
 
 Also check out the [technical writing resource](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/README.md) that I created and contribute to.
 
+I took part in Hacktoberfest 2022! Here are some [badges](https://www.holopin.io/@bennykillua) and a [tree](https://tree-nation.com/profile/digitalocean) planted in my name.
+
 Languages: Python and DAX.
 
 - 👯 I’m looking to collaborate on **documentations, open source projects, and data science and machine learning related projects.**
