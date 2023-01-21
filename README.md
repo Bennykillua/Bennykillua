@@ -6,9 +6,9 @@ Passionate about anything data, ML, and DevOps best practices.
 
 💬 Ask me about **OSS, machine learning, and data analysis**
 
-👐 Contributed to [GeeksforGeeks](https://auth.geeksforgeeks.org/user/iheifeanyi/articles) and [BastilleBSD](https://github.com/BastilleBSD/bastille).
+👐 Contributed to [GeeksforGeeks](https://auth.geeksforgeeks.org/user/iheifeanyi/articles), [Ansible](https://www.ansible.com/), [docToolchain](https://github.com/docToolchain/docToolchain), and [BastilleBSD](https://github.com/BastilleBSD/bastille).
 
-📙 Currently contributing to [Ansible](https://www.ansible.com/), [NumPy](https://numpy.org/), and [docToolchain](https://github.com/docToolchain/docToolchain)
+📙 Currently contributing to [NumPy](https://numpy.org/).
 
 Also check out the [technical writing resource](https://github.com/Bennykillua/Getting-started-in-Technical-Writing/blob/main/README.md) that I created and contribute to.
 
