@@ -21,7 +21,7 @@ Languages: Python and DAX.
 
 ## Hashnode Blog Posts. 
 <!-- HASHNODE:START -->
-- [Building a Question Answering Search Engine with Power Query, OpenAI, MindsDB, and MindsDB SDK using SQL](https://benny.hashnode.dev/building-a-question-answering-search-engine-with-power-query-openai-mindsdb-and-mindsdb-sdk-using-sql)
+- [Building a Question Answering Search Engine with Power Query, OpenAI, MindsDB, Streamlit,and MindsDB SDK using SQL](https://benny.hashnode.dev/building-a-question-answering-search-engine-with-power-query-openai-mindsdb-streamlitand-mindsdb-sdk-using-sql)
 - [All The Damn Things - The Complete Non Code Contributor List](https://benny.hashnode.dev/all-the-damn-things-the-complete-non-code-contributor-list)
 - [Sharing Accounts Through Cookies](https://benny.hashnode.dev/share-your-cookies)
 - [Analyze Blockchain and DeFi data in minutes with SQL and Dune Analytics: A Quickstart Guide](https://benny.hashnode.dev/analyze-blockchain-and-defi-data-in-minutes-with-sql-and-dune-analytics-a-quickstart-guide)
