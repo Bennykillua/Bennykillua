@@ -21,11 +21,11 @@ Languages: Python and DAX.
 
 ## Hashnode Blog Posts. 
 <!-- HASHNODE:START -->
+- [Build a word-of-affirmation service app with OpenAI and Twilio Messaging](https://benny.hashnode.dev/build-a-word-of-affirmation-service-app-with-openai-and-twilio-messaging)
 - [Building a Question Answering Search Engine with Power Query, OpenAI, MindsDB, Streamlit,and MindsDB SDK using SQL](https://benny.hashnode.dev/building-a-question-answering-search-engine-with-power-query-openai-mindsdb-streamlitand-mindsdb-sdk-using-sql)
 - [All The Damn Things - The Complete Non Code Contributor List](https://benny.hashnode.dev/all-the-damn-things-the-complete-non-code-contributor-list)
 - [Sharing Accounts Through Cookies](https://benny.hashnode.dev/share-your-cookies)
 - [Analyze Blockchain and DeFi data in minutes with SQL and Dune Analytics: A Quickstart Guide](https://benny.hashnode.dev/analyze-blockchain-and-defi-data-in-minutes-with-sql-and-dune-analytics-a-quickstart-guide)
-- [On-premise vs. Cloud: Should you make the shift?](https://benny.hashnode.dev/on-premise-vs-cloud-should-you-make-the-shift)
 <!-- HASHNODE:END -->
 
 <details>
